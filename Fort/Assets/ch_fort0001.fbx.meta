@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 1728427286aeba0419ba106ec0a2c1d1
+timeCreated: 1518551731
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: eyes
+    100004: fortEyes
+    100006: Hips
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint3
+    100040: joint4
+    100042: joint5
+    100044: joint6
+    100046: joint7
+    100048: joint8
+    100050: joint9
+    100052: L_arm1_fkIkSwitching_arm_jnt
+    100054: L_arm1_fkIkSwitching_elbow_jnt
+    100056: L_arm1_fkIkSwitching_shoulder_jnt
+    100058: L_arm1_fkIkSwitching_wrist_jnt
+    100060: L_eye_orient_jnt
+    100062: L_hand1_finger01_00_jnt
+    100064: L_hand1_finger01_01_jnt
+    100066: L_hand1_finger01_02_jnt
+    100068: L_hand1_finger01_03_jnt
+    100070: L_hand1_finger01_04_jnt
+    100072: L_leg1_fkIkSwitching_ankle_jnt
+    100074: L_leg1_fkIkSwitching_ball_jnt
+    100076: L_leg1_fkIkSwitching_heel_jnt
+    100078: L_leg1_fkIkSwitching_hip_jnt
+    100080: L_leg1_fkIkSwitching_knee_jnt
+    100082: L_leg1_fkIkSwitching_toe_jnt
+    100084: R_arm1_fkIkSwitching_arm_jnt
+    100086: R_arm1_fkIkSwitching_elbow_jnt
+    100088: R_arm1_fkIkSwitching_shoulder_jnt
+    100090: R_arm1_fkIkSwitching_wrist_jnt
+    100092: R_eye_orient_jnt
+    100094: R_hand1_finger01_00_jnt
+    100096: R_hand1_finger01_01_jnt
+    100098: R_hand1_finger01_02_jnt
+    100100: R_hand1_finger01_03_jnt
+    100102: R_hand1_finger01_04_jnt
+    100104: R_leg1_fkIkSwitching_ankle_jnt
+    100106: R_leg1_fkIkSwitching_ball_jnt
+    100108: R_leg1_fkIkSwitching_heel_jnt
+    100110: R_leg1_fkIkSwitching_hip_jnt
+    100112: R_leg1_fkIkSwitching_knee_jnt
+    100114: R_leg1_fkIkSwitching_toe_jnt
+    100116: Root
+    100118: spine1_fk_chest_jnt
+    100120: spine1_fk_head1_jnt
+    100122: spine1_fk_head2_jnt
+    100124: spine1_fkIkSwitching_joint0_jnt
+    100126: spine1_fkIkSwitching_joint1_jnt
+    100128: spine1_fkIkSwitching_joint2_jnt
+    100130: spine1_fkIkSwitching_joint3_jnt
+    100132: spine1_fkIkSwitching_joint4_jnt
+    400000: //RootNode
+    400002: eyes
+    400004: fortEyes
+    400006: Hips
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint3
+    400040: joint4
+    400042: joint5
+    400044: joint6
+    400046: joint7
+    400048: joint8
+    400050: joint9
+    400052: L_arm1_fkIkSwitching_arm_jnt
+    400054: L_arm1_fkIkSwitching_elbow_jnt
+    400056: L_arm1_fkIkSwitching_shoulder_jnt
+    400058: L_arm1_fkIkSwitching_wrist_jnt
+    400060: L_eye_orient_jnt
+    400062: L_hand1_finger01_00_jnt
+    400064: L_hand1_finger01_01_jnt
+    400066: L_hand1_finger01_02_jnt
+    400068: L_hand1_finger01_03_jnt
+    400070: L_hand1_finger01_04_jnt
+    400072: L_leg1_fkIkSwitching_ankle_jnt
+    400074: L_leg1_fkIkSwitching_ball_jnt
+    400076: L_leg1_fkIkSwitching_heel_jnt
+    400078: L_leg1_fkIkSwitching_hip_jnt
+    400080: L_leg1_fkIkSwitching_knee_jnt
+    400082: L_leg1_fkIkSwitching_toe_jnt
+    400084: R_arm1_fkIkSwitching_arm_jnt
+    400086: R_arm1_fkIkSwitching_elbow_jnt
+    400088: R_arm1_fkIkSwitching_shoulder_jnt
+    400090: R_arm1_fkIkSwitching_wrist_jnt
+    400092: R_eye_orient_jnt
+    400094: R_hand1_finger01_00_jnt
+    400096: R_hand1_finger01_01_jnt
+    400098: R_hand1_finger01_02_jnt
+    400100: R_hand1_finger01_03_jnt
+    400102: R_hand1_finger01_04_jnt
+    400104: R_leg1_fkIkSwitching_ankle_jnt
+    400106: R_leg1_fkIkSwitching_ball_jnt
+    400108: R_leg1_fkIkSwitching_heel_jnt
+    400110: R_leg1_fkIkSwitching_hip_jnt
+    400112: R_leg1_fkIkSwitching_knee_jnt
+    400114: R_leg1_fkIkSwitching_toe_jnt
+    400116: Root
+    400118: spine1_fk_chest_jnt
+    400120: spine1_fk_head1_jnt
+    400122: spine1_fk_head2_jnt
+    400124: spine1_fkIkSwitching_joint0_jnt
+    400126: spine1_fkIkSwitching_joint1_jnt
+    400128: spine1_fkIkSwitching_joint2_jnt
+    400130: spine1_fkIkSwitching_joint3_jnt
+    400132: spine1_fkIkSwitching_joint4_jnt
+    4300000: eyes
+    4300002: fortEyes
+    9500000: //RootNode
+    13700000: eyes
+    13700002: fortEyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
